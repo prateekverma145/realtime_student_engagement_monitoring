@@ -1,0 +1,1 @@
+{0: {'image_path': 'C:\\Users\\prateek\\python_project\\cv\\student_engagement\\new_model\\saving\\bored_3030.682721376419.jpg', 'percentage': [11.587276, 30.306746, 9.647173, 11.648042, 22.78996, 14.020832]}}
